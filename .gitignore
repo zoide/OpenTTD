@@ -50,3 +50,9 @@ src/os/windows/ottdres.rc
 !/config.lib
 !*.in
 *.tmp
+
+os/debian/openttd/*
+os/debian/files/*
+.project
+.cproject
+.settings
