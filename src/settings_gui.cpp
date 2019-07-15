@@ -1569,6 +1569,7 @@ static SettingsContainer &GetSettingsTree()
 			{
 				construction->Add(new SettingEntry("gui.link_terraform_toolbar"));
 				construction->Add(new SettingEntry("gui.enable_signal_gui"));
+				construction->Add(new SettingEntry("gui.simulated_wormhole_signals"));
 				construction->Add(new SettingEntry("gui.persistent_buildingtools"));
 				construction->Add(new SettingEntry("gui.quick_goto"));
 				construction->Add(new SettingEntry("gui.default_rail_type"));
