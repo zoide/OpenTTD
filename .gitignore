@@ -51,6 +51,7 @@ src/os/windows/ottdres.rc
 !*.in
 *.tmp
 
+debian
 os/debian/openttd/*
 os/debian/files/*
 .project
